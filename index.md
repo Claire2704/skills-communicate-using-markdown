@@ -6,3 +6,4 @@
 ###### This is an `<h6>` header, which is the smallest
 I made 6 headers!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+var myVar = "Hello, world!";
